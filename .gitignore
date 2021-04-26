@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Topics/Array/Initializing an array of longs/out/
+/Topics/Array/Initializing an array of longs/out/production/classes/
+/Topics/Integer types and operations/Desks/out/
+/Topics/Integer types and operations/Desks/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/The for-loop/Size of parts/out/
+/Topics/The for-loop/Size of parts/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The for-loop/The sum of integers from a to b/out/
+/Topics/The for-loop/The sum of integers from a to b/out/production/classes/
+/Topics/The while and do-while loops/Profit/out/
+/Topics/The while and do-while loops/Profit/out/production/classes/
+/Topics/The while and do-while loops/The largest element of a sequence/out/
+/Topics/The while and do-while loops/The largest element of a sequence/out/production/classes/
+/Topics/The while and do-while loops/The length of the sequence/out/
+/Topics/The while and do-while loops/The length of the sequence/out/production/classes/
+/Topics/The while and do-while loops/The sequence/out/
+/Topics/The while and do-while loops/The sequence/out/production/classes/
